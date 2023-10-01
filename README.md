@@ -14,23 +14,26 @@ Grupo: GDS0541
 |Nombre del componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
 |ESP-32|Microcontrolador con 30 pines y comunicación Wifi y Blutud|2|$280|
-|Cables Dupont|Cables para conexion de prototipo de prueba|Muchos|$nose|
-|-|-|-|-|
-|-|-|-|-|
+|Cables Dupont|Cables para conexion de prototipo de prueba|120|$66|
+|Mini Bomba Agua|Mini bomba de agua en miniatura|1|$45|
+|Diodos LED RGFB|Diodos que cambian de color|5|$15|
+|Servomotor|Servomotor para controlar el movimeinto|1|$48|
+|Modulo de fotoresistencia|Sensor que permite ver el nivel de luz|1|39|
+|Buzzer|Emisor de sonido|1|$45|
 
 ## Software a utilizar
 |Nombre de Software|Versión|Tipo de Software|
 |-|-|-|
-|Thonny|4.1.2|Software libre|
-|SSD1602|1.8.1|Software libre|
+|Visual Studio Code|1.82|Entorno de Desarrollo Integrado (IDE)|
+|PlattformIO|6.1.11|Extension para IDE|
 
 ## Prototipo en dibujo
 
-- https://raw.githubusercontent.com/JosueMiguelOM/PersonajeNav/master/BocetoProyectoNavideño.jpeg
+![BocetoProyectoNavideño](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/a304246e-6e9f-4bf5-8d54-558b3fc7b464)
 
 ## Comunicación
 
-- Describir la manera que se cree utilizar con su celular para comunicarse con su personaje
+- Se controlara por medio de una aplicacion por Bluetooth
 
 ## Arquitectura
 
