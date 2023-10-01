@@ -37,7 +37,7 @@ Grupo: GDS0541
 
 ## Arquitectura
 
-![BocetoProyectoNavideño](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/9eba7822-94e5-4932-a45d-4b6806884fd0)
+![diagramaProyectoNavideno](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/e158c604-4073-404c-a8b2-b304132cc2ef)
 
 ## Base de datos
 
