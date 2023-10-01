@@ -26,7 +26,7 @@ Grupo: GDS0541
 
 ## Prototipo en dibujo
 
-- Fotografia a mano alzada
+- https://raw.githubusercontent.com/JosueMiguelOM/PersonajeNav/master/BocetoProyectoNavideño.jpeg
 
 ## Comunicación
 
