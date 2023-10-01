@@ -37,7 +37,7 @@ Grupo: GDS0541
 
 ## Arquitectura
 
-- Diagrama que contenga los sensores, los actuadores, el microcontrolador, el servidor y la base de datos
+![BocetoProyectoNavideño](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/9eba7822-94e5-4932-a45d-4b6806884fd0)
 
 ## Base de datos
 
