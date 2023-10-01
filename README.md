@@ -33,7 +33,7 @@ Grupo: GDS0541
 
 ## Comunicación
 
-- Se controlara por medio de una aplicacion por Bluetooth
+- Se controlara por medio de una aplicacion por Bluetooth. La comunicación Bluetooth entre un módulo ESP32 y un dispositivo móvil (como un celular) se puede realizar mediante el uso de perfiles Bluetooth. El perfil más comúnmente utilizado para este tipo de aplicaciones es el "Serial Port Profile" (SPP), que simula una conexión serie a través de Bluetooth.
 
 ## Arquitectura
 
