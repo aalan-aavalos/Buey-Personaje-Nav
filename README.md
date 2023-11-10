@@ -16,10 +16,15 @@ Grupo: GDS0541
 |ESP-32|Microcontrolador con 30 pines y comunicación Wifi y Blutud|2|$280|
 |Cables Dupont|Cables para conexion de prototipo de prueba|120|$66|
 |Mini Bomba Agua|Mini bomba de agua en miniatura|1|$45|
-|Diodos LED RGFB|Diodos que cambian de color|5|$15|
+|Diodos LED RGB|Diodos que cambian de color|5|$15|
 |Servomotor|Servomotor para controlar el movimeinto|1|$48|
 |Modulo de fotoresistencia|Sensor que permite ver el nivel de luz|1|39|
 |Buzzer|Emisor de sonido|1|$45|
+|Sensor DHT22|Sensor que mide la temperatura|1|$95|
+|Motor Stepper|Motor de pasos|1|$109|
+|Hojas de papel periodico|Hojas para hacer el cuerpo|100|$20|
+|Engrudo|Para pegar las hojas y endurecer el cuerpo|1Lt|$50|
+|Sulfato de cobre|Para agregarlo a la mezcla del engrudo y hacer conductor el cuerpo|100g|$18|
 
 ## Software a utilizar
 |Nombre de Software|Versión|Tipo de Software|
@@ -37,7 +42,7 @@ Grupo: GDS0541
 
 ## Arquitectura
 
-![diagramaProyectoNavideno](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/e158c604-4073-404c-a8b2-b304132cc2ef)
+![Captura de pantalla (18)](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/fa0d3f12-f3bd-4211-abf2-e78c6897754b)
 
 ## Base de datos
 
