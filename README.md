@@ -33,6 +33,16 @@ Grupo: GDS0541
 |Visual Studio Code|1.82|Entorno de Desarrollo Integrado (IDE)|
 |PlattformIO|6.1.11|Extension para IDE|
 
+|Nombre de librería|Tipo de librería|
+|-|-|-|
+|Visual Studio Code|Entorno de Desarrollo Integrado (IDE)|
+|Stepper|Control de Motor Stepper|
+|Adafruit_Sensor|Sensor (base para DHT)|
+|DHT|Sensor DHT|
+|Wire|Comunicación I2C|
+|Adafruit_TSL2591|Sensor de Luz|
+|Servo|Control de Servo|
+
 ## Prototipo en dibujo
 
 ![image](https://github.com/aalan-aavalos/PersonajeNav/assets/116679215/32d2544f-2a58-4322-bae4-2c7517d0146e)
