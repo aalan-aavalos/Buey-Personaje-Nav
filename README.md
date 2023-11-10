@@ -24,6 +24,8 @@ Grupo: GDS0541
 |Motor Stepper|Motor de pasos|1|$109|
 |Hojas de papel periodico|Hojas para hacer el cuerpo|100|$20|
 |Engrudo|Para pegar las hojas y endurecer el cuerpo|1Lt|$50|
+|Tijeras|Para recortar y dar forma al cuerpo|1|$20|
+|Cola Loka|Para pegar las partes|2|$40|
 |Sulfato de cobre|Para agregarlo a la mezcla del engrudo y hacer conductor el cuerpo|100g|$18|
 
 ## Software a utilizar
