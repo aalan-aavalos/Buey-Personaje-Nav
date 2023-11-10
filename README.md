@@ -2,7 +2,7 @@
 
 ## Nombre del Personaje
 
-- Buey
+- Toro Guillermo
 
 ## Integrantes
 
@@ -35,7 +35,7 @@ Grupo: GDS0541
 
 ## Prototipo en dibujo
 
-![BocetoProyectoNavideño](https://github.com/aalan-aavalos/PersonajeNav/assets/109251541/a304246e-6e9f-4bf5-8d54-558b3fc7b464)
+![image](https://github.com/aalan-aavalos/PersonajeNav/assets/116679215/32d2544f-2a58-4322-bae4-2c7517d0146e)
 
 ## Comunicación
 
