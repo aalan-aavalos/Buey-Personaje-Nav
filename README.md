@@ -34,7 +34,7 @@ Grupo: GDS0541
 |PlattformIO|6.1.11|Extension para IDE|
 
 |Nombre de librería|Tipo de librería|
-|-|-|-|
+|-|-|
 |Visual Studio Code|Entorno de Desarrollo Integrado (IDE)|
 |Stepper|Control de Motor Stepper|
 |Adafruit_Sensor|Sensor (base para DHT)|
