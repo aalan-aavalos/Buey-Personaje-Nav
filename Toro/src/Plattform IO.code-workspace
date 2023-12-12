@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Toro",
+			"path": ".."
+		},
+		{
+			"name": "mqtt",
+			"path": "../../../../../../../Documents/PlatformIO/Projects/mqtt"
+		}
+	],
+	"settings": {}
+}
