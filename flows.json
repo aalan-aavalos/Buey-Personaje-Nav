@@ -1,0 +1,196 @@
+[
+    {
+        "id": "f73e3aafc3703fc6",
+        "type": "tab",
+        "label": "Toro (buey)",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ef297e9bd4e5606e",
+        "type": "ui_switch",
+        "z": "f73e3aafc3703fc6",
+        "name": "",
+        "label": "Musica",
+        "tooltip": "",
+        "group": "ebcc37e0186efab2",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "1",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "0",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 640,
+        "y": 260,
+        "wires": [
+            [
+                "5dc714d8475cc0ef",
+                "e3cb4721a872c261"
+            ]
+        ]
+    },
+    {
+        "id": "6c1c40f959452e69",
+        "type": "inject",
+        "z": "f73e3aafc3703fc6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "toro",
+        "payloadType": "str",
+        "x": 470,
+        "y": 320,
+        "wires": [
+            [
+                "ef297e9bd4e5606e",
+                "ef314e0fe6117ce8"
+            ]
+        ]
+    },
+    {
+        "id": "5dc714d8475cc0ef",
+        "type": "mqtt out",
+        "z": "f73e3aafc3703fc6",
+        "name": "",
+        "topic": "buey/musicaled",
+        "qos": "2",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "391ca8d3f3398ef5",
+        "x": 920,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "e3cb4721a872c261",
+        "type": "debug",
+        "z": "f73e3aafc3703fc6",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 900,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "ef314e0fe6117ce8",
+        "type": "ui_switch",
+        "z": "f73e3aafc3703fc6",
+        "name": "",
+        "label": "Leds",
+        "tooltip": "",
+        "group": "ebcc37e0186efab2",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "3",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "2",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 630,
+        "y": 400,
+        "wires": [
+            [
+                "5dc714d8475cc0ef",
+                "e3cb4721a872c261"
+            ]
+        ]
+    },
+    {
+        "id": "ebcc37e0186efab2",
+        "type": "ui_group",
+        "name": "Miscelaneos",
+        "tab": "7314268906601209",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "391ca8d3f3398ef5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "192.168.1.100",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "7314268906601209",
+        "type": "ui_tab",
+        "name": "Proyectos",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]
