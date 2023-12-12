@@ -10,6 +10,10 @@ Grupo: GDS0541
 - Alan de Jesús Avalos Negrete - GDS0541
 - Josue Miguel Ortiz Meza - GDS0541
 
+## Video de demostración
+
+El video se encuentra en una carpeta del repositorio
+
 ## Materiales a utilizar
 |Nombre del componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
